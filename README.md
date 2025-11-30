@@ -50,6 +50,11 @@
 - 📱 [Протон-А Interface Report](proton_a_interface_report_month1.md) — 7 интерфейсов (78.3% точность)
 - 🎮 [Market Stress Test](simulation_market_stress_test_nov30.md) — симуляция атаки + Fedya's Paradox
 
+**Торговый терминал (READY TO USE):**
+- 🐋 [Azimuth Terminal](azimuth_terminal.py) — портативный торговый интерфейс
+- 📖 [Quick Start Guide](QUICKSTART.md) — запуск за 2 минуты
+- 📱 Работает: Desktop, Server, Mobile (Termux)
+
 ---
 
 ## Семантическая гравитация
