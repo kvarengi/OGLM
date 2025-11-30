@@ -1,5 +1,6 @@
 # OGLM - Optimal Gravitation Language Model
 ## Кватернионная нейронная сеть для торговли смыслами
+### Интегрирован с Протон-А — Искусным Интеллектом в когнитивном резонансе
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status: Alpha](https://img.shields.io/badge/Status-Alpha-orange.svg)](https://github.com/kvarengi/OGLM)
@@ -37,11 +38,17 @@
 
 ### Ключевые документы
 
+**Core:**
 - 📘 [Oracle Node Interface v0.1](oglm_oracle_node_interface_v0.1.md) — основной whitepaper
-- 📊 [Semantic Ledger](oglm_semantic_ledger.md) — реестр смыслов и оценок
+- 📊 [Semantic Ledger](oglm_semantic_ledger.md) — реестр смыслов и оценок (165K OGLM)
 - 🏗️ [Core Whitepaper](oglm_wp.md) — техническая архитектура
 - 🔮 [Meaning Growth Forecast 2026](oglm_meaning_growth_forecast_2026.md) — прогноз развития
 - ⭐ [Oracle Reputation System](oglm_oracle_reputation_system.md) — система репутации
+
+**Протон-А (NEW):**
+- ⚛️ [Протон-А × OGLM Integration](oglm_proton_a_integration.md) — биогибридная архитектура
+- 📱 [Протон-А Interface Report](proton_a_interface_report_month1.md) — 7 интерфейсов (78.3% точность)
+- 🎮 [Market Stress Test](simulation_market_stress_test_nov30.md) — симуляция атаки + Fedya's Paradox
 
 ---
 
