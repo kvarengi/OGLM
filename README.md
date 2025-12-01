@@ -55,6 +55,12 @@
 - 📖 [Quick Start Guide](QUICKSTART.md) — запуск за 2 минуты
 - 📱 Работает: Desktop, Server, Mobile (Termux)
 
+**DAO OGLM_dreamers (NEW):**
+- 🏛️ [DAO Whitepaper](oglm_dao_dreamers.md) — капитализация через интеллект
+- 💎 Формула: V = M_смыслов × L_азимута × Quality
+- 🪙 DREAM token: governance + rewards
+- 📊 DATA-NFT: деривативы на персональные данные
+
 ---
 
 ## Семантическая гравитация
