@@ -56,10 +56,13 @@
 - 📱 Работает: Desktop, Server, Mobile (Termux)
 
 **DAO OGLM_dreamers (NEW):**
-- 🏛️ [DAO Whitepaper](oglm_dao_dreamers.md) — капитализация через интеллект
+- 🏛️ [DAO Whitepaper](oglm_dao_dreamers.md) — капитализация через интеллект (1,600+ строк)
 - 💎 Формула: V = M_смыслов × L_азимута × Quality
 - 🪙 DREAM token: governance + rewards
 - 📊 DATA-NFT: деривативы на персональные данные
+- 🤝 AI Contracts: 4 типа контрактов (Research → Exclusive Partnership)
+- 🛡️ Privacy Framework: 12 категорий данных, granular consent, compliance monitoring
+- 💰 Revenue: прогноз $1.7M Year 1 → $43M Year 5
 
 ---
 
