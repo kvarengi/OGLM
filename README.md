@@ -56,13 +56,21 @@
 - 📱 Работает: Desktop, Server, Mobile (Termux)
 
 **DAO OGLM_dreamers (NEW):**
-- 🏛️ [DAO Whitepaper](oglm_dao_dreamers.md) — капитализация через интеллект (1,600+ строк)
+- 🏛️ [DAO Whitepaper](oglm_dao_dreamers.md) — капитализация через интеллект (2,000+ строк)
 - 💎 Формула: V = M_смыслов × L_азимута × Quality
 - 🪙 DREAM token: governance + rewards
 - 📊 DATA-NFT: деривативы на персональные данные
 - 🤝 AI Contracts: 4 типа контрактов (Research → Exclusive Partnership)
 - 🛡️ Privacy Framework: 12 категорий данных, granular consent, compliance monitoring
 - 💰 Revenue: прогноз $1.7M Year 1 → $43M Year 5
+
+**Data Block Pricing (NEW):**
+- 🧱 [Data Block Pricing Model](data_block_pricing_model.md) — детальный брейкдаун стоимости
+- ⛓️ Синхронизация с Bitcoin blocks (1 BTC block = 1 Data block)
+- 💵 Pricing: $3-469/block (1 пользователь), $3.8K-338K/block (N пользователей)
+- 🔢 Влияние векторизации: 0.5x-2.0x (semantic quality)
+- 📊 Влияние репутации: 0.1x-10x (квадратичная зависимость)
+- 🛡️ 5 уровней защиты от misuse: watermarking, progressive licensing, subscription, attestation, legal+insurance
 
 ---
 
