@@ -65,6 +65,24 @@
 - 💰 Revenue: прогноз $1.7M Year 1 → $43M Year 5
 
 **Data Block Pricing (NEW):**
+- ⏱️ [Блочная модель ценообразования](data_block_pricing_model.md) — синхронизация с Bitcoin (1,459 строк)
+- 🔗 Data Blocks = Bitcoin blocks (~10 мин)
+- 💎 Scarcity Factor: растёт с каждой Bitcoin эрой (1.0x → 5.0x)
+- 📊 Детальный breakdown: 5 категорий данных ($75-$5K base)
+- 🧬 Semantic Embeddings: до +50% к цене
+- 🏆 Reputation: до 3x multiplier (composite metric)
+- 🛡️ 5 механизмов защиты от perpetual training
+- 💸 Топ-мечтатели: $67K per block → $3.5B annual potential
+
+**3DA: Data Agent (NEW):**
+- 🕵️ [3DA System](3da_data_agent.md) — цифровой следопыт для расследования утечек
+- 🔍 4-layer architecture: Detection → Analysis → Investigation → Action
+- 🌐 Powered by Cocoon Network (500+ distributed nodes)
+- 🌑 Dark web monitoring через Tor-enabled nodes
+- 📊 Evidence collection: IPFS + blockchain notarization
+- 💰 Compensation calculator: GDPR + CCPA + Copyright claims
+- ⚖️ Legal action initiator: автоматические lawsuits
+- 📢 Public disclosure: naming & shaming нарушителей
 - 🧱 [Data Block Pricing Model](data_block_pricing_model.md) — детальный брейкдаун стоимости
 - ⛓️ Синхронизация с Bitcoin blocks (1 BTC block = 1 Data block)
 - 💵 Pricing: $3-469/block (1 пользователь), $3.8K-338K/block (N пользователей)
