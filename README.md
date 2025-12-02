@@ -74,7 +74,7 @@
 - 🛡️ 5 механизмов защиты от perpetual training
 - 💸 Топ-мечтатели: $67K per block → $3.5B annual potential
 
-**3DA: Data Agent (NEW):**
+**3DA: Data Agent:**
 - 🕵️ [3DA System](3da_data_agent.md) — цифровой следопыт для расследования утечек
 - 🔍 4-layer architecture: Detection → Analysis → Investigation → Action
 - 🌐 Powered by Cocoon Network (500+ distributed nodes)
@@ -83,6 +83,15 @@
 - 💰 Compensation calculator: GDPR + CCPA + Copyright claims
 - ⚖️ Legal action initiator: автоматические lawsuits
 - 📢 Public disclosure: naming & shaming нарушителей
+
+**Dreamers Onboarding (NEW):**
+- 🌟 [Onboarding Program](dreamers_onboarding_program.md) — привлечение первых 100 мечтателей
+- 🎯 4 целевые аудитории: философы, crypto natives, AI researchers, content creators
+- 📚 Пошаговые инструкции: от Day 1 до Week 4
+- 💰 DREAM-to-Food program: токены → еда, жильё, здоровье
+- 🎮 Milestone rewards: badges, NFTs, bonuses
+- 🔗 Referral program: 5-10% от earnings приглашённых
+- 🚀 Launch timeline: Alpha (10) → Beta (50) → Gamma (100)
 - 🧱 [Data Block Pricing Model](data_block_pricing_model.md) — детальный брейкдаун стоимости
 - ⛓️ Синхронизация с Bitcoin blocks (1 BTC block = 1 Data block)
 - 💵 Pricing: $3-469/block (1 пользователь), $3.8K-338K/block (N пользователей)
