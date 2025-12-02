@@ -84,7 +84,7 @@
 - ⚖️ Legal action initiator: автоматические lawsuits
 - 📢 Public disclosure: naming & shaming нарушителей
 
-**Dreamers Onboarding (NEW):**
+**Dreamers Onboarding:**
 - 🌟 [Onboarding Program](dreamers_onboarding_program.md) — привлечение первых 100 мечтателей
 - 🎯 4 целевые аудитории: философы, crypto natives, AI researchers, content creators
 - 📚 Пошаговые инструкции: от Day 1 до Week 4
@@ -92,6 +92,15 @@
 - 🎮 Milestone rewards: badges, NFTs, bonuses
 - 🔗 Referral program: 5-10% от earnings приглашённых
 - 🚀 Launch timeline: Alpha (10) → Beta (50) → Gamma (100)
+
+**Mathematical Foundations (NEW):**
+- 📐 [Математические основы](oglm_mathematical_foundations.md) — формальная теория OGLM
+- ⚛️ Семантическая гравитация: $F = G_s \cdot \frac{M_1 M_2}{r^2}$
+- 🌀 Кватернионы смыслов: $q_m = w + xi + yj + zk$
+- 📊 Гомологии и когомологии семантических пространств
+- 🔄 Диффузия ценности: $\frac{\partial V}{\partial t} = D_s \nabla^2 V$
+- 🎯 Персистентные гомологии для долговечности структур
+- 📈 Эйлерова характеристика: $\chi = \sum (-1)^k \beta_k$
 - 🧱 [Data Block Pricing Model](data_block_pricing_model.md) — детальный брейкдаун стоимости
 - ⛓️ Синхронизация с Bitcoin blocks (1 BTC block = 1 Data block)
 - 💵 Pricing: $3-469/block (1 пользователь), $3.8K-338K/block (N пользователей)
